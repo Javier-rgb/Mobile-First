@@ -278,4 +278,5 @@ main {
     font-size: 1.2rem;
     line-height: 1.5rem;
     color: var(--warn-black);
+    font-weight: 300;
 }
