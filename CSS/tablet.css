@@ -1,0 +1,33 @@
+.tables {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.tables .table_title {
+    padding-left: 60px;
+}
+
+
+.info_cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+
+}
+
+.plans_slider {
+    justify-content: center;
+}
+
+.footer_left li {
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0 10px; 
+}
+
+.footer_right img {
+    width: 100px;
+    height: 100px;
+}
